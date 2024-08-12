@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ASP.NET CORE Web Application
 - 💞️ I’m looking to collaborate with somebody who embodies my philosophy in life: HUMILITY
 - 📫 How to reach me? Just throw a message to me through gmail: pro.odisammyv@gmail.com and outlook: sammyvodi@outlook.com
-- 😄 Pronouns: Humility
+- 😄 Pronouns: HE/HIM 
 - ⚡ Fun fact: I am a mental health Warrior!
 
 <!---
