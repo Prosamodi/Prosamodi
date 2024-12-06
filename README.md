@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prosamodi
 - 👀 I’m interested in developing Web applications mainly ASP.NET CORE and its subsequent technologies.
-- 🌱 I’m currently learning ASP.NET CORE Web Application
+- 🌱 I’m currently learning ASP.NET CORE Web Application and .NET MAUI for cross-platform native app development
 - 💞️ I’m looking to collaborate with somebody who embodies my philosophy in life: HUMILITY
 - 📫 How to reach me? Just throw a message to me through gmail: pro.odisammyv@gmail.com and outlook: sammyvodi@outlook.com
 - 😄 Pronouns: HE/HIM 
